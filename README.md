@@ -1,10 +1,10 @@
-# Compare Products - Almabase Assignment
+# Mock Assignment of Sensibull
 
 
 # install dependencies
 npm install
 
-# serve in development/production mode
+# serve in development mode
 npm start
 
 
